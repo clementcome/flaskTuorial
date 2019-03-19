@@ -4,6 +4,8 @@ Basé sur [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-fla
 **Chapitres finis :** 
 - 1: Hello, World !
 - 2: Templates
+- 3: Web Forms
+- 4: Database
 
 
-**Avancement actuel :** Chapitre 3 : Web Forms fini.
+**Avancement actuel :** Chapitre 5
