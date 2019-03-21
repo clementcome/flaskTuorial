@@ -6,6 +6,8 @@ Basé sur [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-fla
 - 2: Templates
 - 3: Web Forms
 - 4: Database
+- 5: User logins
+- 6: Profile page and avatars
 
 
-**Avancement actuel :** Chapitre 5
+**Avancement actuel :** Chapitre 7 : Début
