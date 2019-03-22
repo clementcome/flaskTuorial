@@ -9,6 +9,9 @@ Basé sur [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-fla
 - 5: User logins
 - 6: Profile page and avatars
 - 7: Error handling
+- 8: Followers
 
+**Avancement actuel :** Chapitre 9: Début
 
-**Avancement actuel :** Chapitre 8: Début
+## Intégration de Dash :
+[Tuto pour intégrer une application dash dans flask](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)
