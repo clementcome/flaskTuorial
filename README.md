@@ -8,6 +8,7 @@ Basé sur [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-fla
 - 4: Database
 - 5: User logins
 - 6: Profile page and avatars
+- 7: Error handling
 
 
-**Avancement actuel :** Chapitre 7 : Début
+**Avancement actuel :** Chapitre 8: Début
