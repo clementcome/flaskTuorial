@@ -12,8 +12,9 @@ Basé sur [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-fla
 - 8: Followers
 - 9: Pagination
 - 10: Email support
+- 11: Facelift (CSS Bootstrap)
 
-**Avancement actuel :** Chapitre 11: Début
+**Avancement actuel :** Chapitre 12: Début
 
 ## Intégration de Dash :
 [Tuto pour intégrer une application dash dans flask](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)
