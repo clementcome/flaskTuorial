@@ -6,3 +6,23 @@
 2019-03-22 11:13:44,888 INFO: Microblog startup [in C:\Users\33611\Documents\Projets_prog\intro-flask\microblog\app\__init__.py:43]
 2019-03-22 11:16:57,354 INFO: Microblog startup [in C:\Users\33611\Documents\Projets_prog\intro-flask\microblog\app\__init__.py:43]
 2019-03-22 14:55:29,616 INFO: Microblog startup [in C:\Users\33611\Documents\Projets_prog\intro-flask\microblog\app\__init__.py:43]
+2019-03-22 15:39:39,434 INFO: Microblog startup [in C:\Users\33611\Documents\Projets_prog\intro-flask\microblog\app\__init__.py:43]
+2019-03-22 15:40:00,845 ERROR: Exception on / [GET] [in C:\Users\33611\Anaconda3\lib\site-packages\flask\app.py:1761]
+Traceback (most recent call last):
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\33611\Anaconda3\lib\site-packages\flask_login\utils.py", line 261, in decorated_view
+    return func(*args, **kwargs)
+  File "C:\Users\33611\Documents\Projets_prog\intro-flask\microblog\app\routes.py", line 26, in index
+    posts = current_user.followed_posts.all()
+AttributeError: 'function' object has no attribute 'all'
