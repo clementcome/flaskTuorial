@@ -14,8 +14,9 @@ Basé sur [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-fla
 - 10: Email support
 - 11: Facelift (CSS Bootstrap)
 - 12: Dates and Times
+- 13: Internationalization:(skip)
 
-**Avancement actuel :** Chapitre 13: Début
+**Avancement actuel :** Chapitre 14: Début
 
 ## Intégration de Dash :
 [Tuto pour intégrer une application dash dans flask](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)
